@@ -1,0 +1,9 @@
+Break commands in the BAA, is used to terminate the loops 3 dhoroner instruction royeche seta break command gui e byabohar hobe
+How the break commands used by automation anywhere
+
+ACTIONS(LOOP ACTION_search korte hobe under the actions)
+  1. We have to create a loop just drag and drop the loop (How many times u have to execute the loop)RHS e thakbe
+  2. Mention the number of times (Any number)
+  3. Under this loop we can also perform the while loop
+  4. ebar bhabi excel.exe file amar while loop e under e ache , we can also used them for our window exit , browser application dite hobe 
+  5. Prottek loopp action er por message box needs to be taken.
