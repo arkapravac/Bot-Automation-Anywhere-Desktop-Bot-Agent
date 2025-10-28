@@ -7,3 +7,6 @@ ACTIONS(LOOP ACTION_search korte hobe under the actions)
   3. Under this loop we can also perform the while loop
   4. ebar bhabi excel.exe file amar while loop e under e ache , we can also used them for our window exit , browser application dite hobe 
   5. Prottek loopp action er por message box needs to be taken.
+
+
+https://community.cloud.automationanywhere.digital/#/bots/repository/private/files/task/31881063/edit
